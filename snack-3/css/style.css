@@ -1,15 +1,6 @@
-/* #region RESET */
-* {
-    border: 0px;
-    margin: 0px;
-    padding: 0px;
-    box-sizing: border-box;
+body{
+    font-size: 2rem
 }
-
-ul, ol {
-    list-style: none;
-}
-/* #endregion RESET */
 
 #odd{
     color: red
