@@ -10,3 +10,11 @@ ul, ol {
     list-style: none;
 }
 /* #endregion RESET */
+
+#odd{
+    color: red
+}
+
+#even{
+    color: green;
+}
